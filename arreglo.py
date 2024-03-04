@@ -1,1 +1,1 @@
-rreglo = list(range(10))
+arreglo = list(range(10))
